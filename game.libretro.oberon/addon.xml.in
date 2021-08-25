@@ -15,7 +15,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Oberon RISC Emulator</summary>
-		<description lang="en_GB">Emulator for the Oberon RISC machine.[CR][CR]The Oberon System was designed and implemented in 1990 by professor Niklaus Wirth. It was intended for teaching computer essentials.</description>
+		<description lang="en_GB">An emulator for the Oberon RISC machine.[CR][CR]The Oberon System was designed and implemented in 1990 by professor Niklaus Wirth. It was intended for teaching computer essentials.</description>
 		<license>ISC</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.oberon</source>
