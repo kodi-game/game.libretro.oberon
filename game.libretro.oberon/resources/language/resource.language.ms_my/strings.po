@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "An emulator for the Oberon RISC machine.[CR][CR]The Oberon System was designed and implemented in 1990 by professor Niklaus Wirth. It was intended for teaching computer essentials."
 msgstr ""
-
