@@ -15,7 +15,7 @@ ISC
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.oberon/resources/icon.png)
 
 ### Fanart
 
