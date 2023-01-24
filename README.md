@@ -15,7 +15,7 @@ ISC
 
 ### Icon
 
-![Icon](game.libretro.oberon/resources/icon.png)
+![Oberon RISC Emulator icon](game.libretro.oberon/resources/icon.png)
 
 ### Fanart
 
