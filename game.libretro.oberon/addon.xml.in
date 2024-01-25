@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.oberon"
 		name="Oberon RISC Emulator"
-		version="0.0.1.19"
+		version="0.0.1.20"
 		provider-name="Peter De Wachter, Emery Hemingway">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
