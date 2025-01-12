@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Oberon RISC Emulator</summary>
+		<description lang="af_ZA">&apos;n Emuleerder vir die Oberon RISC masjien.[CR][CR]Die Oberon Stelsel was ontwerp en geïmplementeer in 1990 deur professor Niklaus Wirth. Dit was bedoel vir die onderrig van rekenaar noodsaaklikhede.</description>
 		<description lang="da_DK">En emulator til Oberon RISC-maskinen.[CR][CR]Oberon-systemet blev designet og implementeret i 1990 af professor Niklaus Wirth. Det var beregnet til undervisning i væsentlige computerfærdigheder.</description>
 		<description lang="de_DE">Ein Emulator für die Oberon RISC Maschine[CR][CR]Das Oberon System wurde 1990 von Professor Niklaus Wirth entworfen und implementiert. Es war für das Lehren von Computergrundlagen gedacht.</description>
 		<description lang="en_GB">An emulator for the Oberon RISC machine.[CR][CR]The Oberon System was designed and implemented in 1990 by professor Niklaus Wirth. It was intended for teaching computer essentials.</description>
