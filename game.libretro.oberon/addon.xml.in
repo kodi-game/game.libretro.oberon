@@ -29,6 +29,7 @@
 		<description lang="es_ES">Un emulador para la máquina Oberon RISC[CR][CR]El sistema Oberon fue diseñado e implementado en 1990 por el profesor Niklaus Wirth. Estaba destinado a la enseñanza de fundamentos de informática.</description>
 		<description lang="it_IT">Un emulatore per la macchina RISC Oberon.[CR][CR]Il sistema Oberon è stato progettato e implementato nel 1990 dal professor Niklaus Wirth. Era destinato all&apos;insegnamento degli elementi essenziali del computer.</description>
 		<description lang="ko_KR">Oberon RISC 기계용 에뮬레이터.[CR][CR]Oberon 시스템은 Niklaus Wirth 교수가 1990년에 설계하고 구현했습니다. 컴퓨터 필수 교육을 위한 것이었습니다.</description>
+		<description lang="ru_RU">Эмулятор компьютера Oberon RISC.[CR][CR]Система Oberon была разработана и реализована в 1990 году профессором Никлаусом Виртом. Предназначалась для обучения основам работы с компьютером.</description>
 		<description lang="sv_SE">En emulator för Oberon RISC-maskinen[CR][CR]Oberon-systemet designades och implementerades 1990 av professor Niklaus Wirth. Det var avsett för undervisning i grundläggande datorkunskap.</description>
 		<description lang="zh_CN">Oberon RISC 机器的模拟器。[CR][CR]Oberon 系统由 Niklaus Wirth 教授于1990年设计并实现。它是用来教授计算机基础知识的。</description>
 	</extension>
