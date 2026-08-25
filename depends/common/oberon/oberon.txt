@@ -1,1 +1,1 @@
-oberon https://github.com/libretro/oberon-risc-emu/archive/f15889b9e5eae0d0370ce6d08fa45838228f2f63.tar.gz
+oberon https://github.com/libretro/oberon-risc-emu/archive/5be71d885b87b7cd7c635bf330764fcc4f3905fe.tar.gz
